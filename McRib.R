@@ -1,5 +1,5 @@
 #McRib availability relative to price of pork.
-#@alreadyroses/ June 2022
+#@jdstalnaker/ June 2022
 
 source("packages.R")
 options(warn=-1)
